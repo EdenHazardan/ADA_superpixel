@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ## Download Pretrained Weights
-For the segmentation model initialization, following DDM, we start with a model pretrained on ImageNet: [Download](http://vllab.ucmerced.edu/ytsai/CVPR18/DeepLab_resnet_pretrained_init-f81d91e8.pth)
+For the segmentation model initialization, we start with a model pretrained on ImageNet: [Download](http://vllab.ucmerced.edu/ytsai/CVPR18/DeepLab_resnet_pretrained_init-f81d91e8.pth)
 
 
 ## Data preparation
