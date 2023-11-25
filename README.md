@@ -33,7 +33,7 @@ Your directory tree should be look like this:
 ```
 
 ## Superpixel Generation
-We use SSN to generate superpixels for Cityscapes data and follow [SSN](https://github.com/perrying/ssn-pytorch) to train SSN on source domain (GTA5 or SYNTHIA). Then we save the superpixel results at ``/home/XXXX-1/ssn-pytorch-patch-1/SSN_city``.
+We use SSN to generate superpixels for Cityscapes data and follow [SSN](https://github.com/perrying/ssn-pytorch) to train SSN on source domain (GTA5 or SYNTHIA). Then we save the superpixel results at ``/data/XXXX-1/ssn-pytorch-patch-1/SSN_city``.
 
 ## Labeling Phase 1 
 
