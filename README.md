@@ -19,7 +19,7 @@ You need to download the [GTA5](https://download.visinf.tu-darmstadt.de/data/fro
 
 Your directory tree should be look like this:
 ```
-./DSTC-SSDA/data
+./ADA_superpixel/data
 ├── cityscapes
 |  ├── gtFine
 |  |  |—— train
