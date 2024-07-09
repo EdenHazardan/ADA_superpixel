@@ -1,5 +1,5 @@
-# ADA_superpixel
-This repository is released for double-blind submission, which can reproduce the main results (our proposed superpixel-level method for active domain adaptation in semantic segmentation, ADA_superpixel) of the experiment on GTA5 to Cityscapes. Experiments on the SYNTHIA to Cityscapes can be easily implemented by slightly modifying the dataset and setting. Notably, we use DACS as UDA-merge here for simplify, while the implementation of daformer uses the mmsegmentation framework.
+# Efficient Active Domain Adaptation for Semantic Segmentation by Selecting Information-rich Superpixels (ECCV 2024)
+This repository is released that can reproduce the main results (our proposed superpixel-level method for active domain adaptation in semantic segmentation, ADA_superpixel) of the experiment on VIPER to Cityscapes-Seq.  Experiments on the SYNTHIA-Seq to Cityscapes-Seq can be easily implemented by slightly modifying the dataset and setting. Notably, we use DACS as UDA-merge here for simplify, while the implementation of daformer uses the mmsegmentation framework.
 
 ## Install & Requirements
 
